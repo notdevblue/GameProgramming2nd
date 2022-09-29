@@ -1,7 +1,3 @@
-mandu/InfiniteStair/Library
-mandu/InfiniteStair/Logs
-mandu/InfiniteStair/Temp
-
-Sanhak/GPWaterShader/Library
-Sanhak/GPWaterShader/Logs
-Sanhak/GPWaterShader/Temp
+**/Library
+**/Logs
+**/Temp
